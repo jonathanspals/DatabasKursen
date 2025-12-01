@@ -1,4 +1,0 @@
-CREATE TABLE Skillset(
-    skillId    VARCHAR(50) UNIQUE NOT NULL PRIMARY KEY,
-    skillName  VARCHAR(50) NOT NULL
-);
